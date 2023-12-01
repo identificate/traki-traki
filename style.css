@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    background-color: black;
+    margin-top: 60px;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .panadero {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    
+  }
+  
+  .services{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+     background-color: gray;
+     width: 1200px;
+  }
+  .cuadro {
+    width: 1200px;
+    height: 2000px;
+    background-color: gray;
+    border-radius: 20px;
+    
+   
+  }
+  
+  .cuadroa{
+    display: flex;
+    flex-direction: row;
+  gap: 125px;
+  margin-right: 20px;
+    margin-left: 20px;
+
+  }
+  .fp {
+    color: antiquewhite;
+    font-size: 30px;
+    text-align: center;
+    background: gray;
+   
+  
+}
+  
+  .fx-container {
+    font-size: medium;
+    flex-direction: column;
+    display: flex;
+    gap: 80px;
+    margin-top: 50px;
+    
+  }
+  
+  .fx {
+    color: antiquewhite;
+    font-size: 30px;
+    width: 300px;
+  
+}
+  
+  .fg {
+    font-size: 40px;
+    text-align:center;
+  }
+  
+  .fs {
+    font-size: 20px;
+    text-align: center;
+
+}
+.col2 {
+    font-size: medium;
+    flex-direction: column;
+    display: flex;
+    gap: 100px;
+    margin-top: 50px;
+
+
+
+}
+.ca{
+    width: 200px;
+    color: aliceblue;
+}
+.co{
+    color: aliceblue;
+    font-size: 20px;
+}
+.columnas{
+    flex-direction: row;
+    color: aliceblue;
+    display: flex;
+    gap: 100px;
+    margin: 50px;
+}
+
+    
+.oracion{
+    flex-direction: row;
+    text-align: center;
+    width: 400px;
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+    
+    
+}
+.foto {
+    height: 70px;
+    width: 80px;
+    margin-left: 30px;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 80px;
+}
+.negros{
+flex-direction: row;
+display: flex;
+gap: 40px;
+
+
+}
+.carcel{
+    background: black;
+    width: 1000px;
+    height: 800px;
+    margin: 100px;
+    align-items: center;
+    border-radius: 30px;
+}
+.sed{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+.kk{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 10px;
+}
+.cc{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
