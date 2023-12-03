@@ -1,0 +1,61 @@
+body{
+    
+    background-image: url("loginBackground.png"); 
+}   
+.mrwhite{
+    width: 500px;
+    height: 300px;
+    background: white;
+    margin-left: 400px;
+    margin-right: 500px;
+    margin-top: 150px;
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+.lisuras{
+    flex-direction: row;
+    display: flex;
+    gap: 4px;
+    
+    }
+
+.gris{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.diarrea{
+    font-size: 20px;
+    color: #00877B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.naranja{
+    font-size: 20px;
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.jefedeequipo{
+    width: 400px;
+    height: 30px;
+    border: 1px solid gray;
+    
+}
+.lol{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.posa{
+    width: 400px;
+    height: 125px;
+    background: orange;
+
+}
+.ya{
+   margin-top: 30px;
+    margin-left: 135px;
+    font-size: 40px;
+}
